@@ -2,6 +2,6 @@
 	path = public
 	url = https://github.com/berrygroup/berrygroup.github.io.git
 	branch = main
-[submodule "themes/starter-academic"]
-	path = themes/starter-academic
-	url = https://github.com/wowchemy/starter-academic.git
+[submodule "themes/hugo-scroll"]
+	path = themes/hugo-scroll
+	url = https://github.com/janraasch/hugo-scroll.git
