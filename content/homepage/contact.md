@@ -4,7 +4,7 @@ weight: 5
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[scott.berry[at]unsw.edu.au](mailto:scott.berry[at]unsw.edu.au)
+{{<icon class="fa fa-envelope">}}&nbsp;[scott.berry[at]unsw.edu.au](mailto:scott.berry@unsw.edu.au)
 
 {{<icon class="fa fa-twitter">}}&nbsp;[@scottbscience](http://twitter.com/scottbscience)
 

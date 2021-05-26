@@ -9,4 +9,4 @@ weight: 2
 header_menu: true
 ---
 
-So far its just me! But I will be recruiting for PhD students and postdocs very soon. Send me an email if you are interested.
+Bio and pic
