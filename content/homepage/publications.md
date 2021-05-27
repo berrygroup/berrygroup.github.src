@@ -6,10 +6,10 @@ header_menu: true
 
 ---
 
-### Preprints  
+### Preprints
 
 ###### Nuclear RNA concentration coordinates RNA production with cell size in human cells
-Berry, S.^, Müller, M., Pelkmans, L.^  
+Berry, S.^, Müller, M. and Pelkmans, L.^  
 *bioRxiv*
 | [PDF](https://www.biorxiv.org/content/10.1101/2021.05.17.444432v1.full.pdf)
 | [bioRxiv](https://doi.org/10.1101/2021.05.17.444432)  
@@ -17,10 +17,18 @@ Berry, S.^, Müller, M., Pelkmans, L.^
 
 ---
 
+### 2021
+
+###### High content genome-wide siRNA screen to investigate the coordination of cell size and RNA production
+Müller, M., Pelkmans, L., and Berry, S.  
+*Scientific Data* (in press)
+
+---
+
 ### 2017
 
 ###### Disruption of an RNA-binding hinge region abolishes LHP1-mediated epigenetic repression
-Berry, S., Rosa, S., Howard, M., Bühler, M. & Dean, C.  
+Berry, S., Rosa, S., Howard, M., Bühler, M., and Dean, C.  
 *Genes & Development*
 | [PDF](papers/berry_et_al_genes_dev_2017.pdf)
 | [Journal](http://dx.doi.org/10.1101/gad.305227.117)
