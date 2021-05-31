@@ -11,6 +11,9 @@ We seek to generate a *quantitative* understanding of these processes, making us
 The best science happens in the overlap between fields. We aim to build a diverse team and foster collaborations across fields and disciplines.
 
 ![Effects on gene expression of CRISPR-KO using smFISH](images/FISHquant-01.png)
+{{< figurecaption >}}
+Cell-to-cell variability in gene expression, quantified using single molecule FISH.
+{{< /figurecaption >}}
 
 #### Stability and plasticity of epigenetic memory
 
@@ -23,6 +26,9 @@ We are interested in the interplay between gene-specific diffusible regulatory f
 [Berry *et al.*, Cell Systems, 2017](http://dx.doi.org/10.1016/j.cels.2017.02.013)
 
 ![Integrating local and diffusible signals at chromatin](images/Modelling-01.png)
+{{< figurecaption >}}
+Mechanistic model of self-perpetuating active and repressed chromatin states. 
+{{< /figurecaption >}}
 
 #### Global control of RNA metabolism
 
