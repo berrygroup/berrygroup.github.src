@@ -9,8 +9,10 @@ weight: 2
 header_menu: true
 ---
 
-#### Scott Berry
 
+#### Scott Berry
 ![Scott Berry](images/ProfilePicture.jpg#floatright)
-Scott studied Theoretical Physics and Biology at the University of Adelaide and the University of Western Australia, before moving to John Innes Centre in the UK for his PhD. There, together with Caroline Dean and Martin Howard, he worked on mechanisms of epigenetic memory, using *Arabidopsis thaliana* as a model system. Scott then moved to Switzerland to undertake postdoctoral research with Lucas Pelkmans on heterogeneity in gene expression in mammalian cells. From October 2021, Scott will be a group leader at Single Molecule Science.
+###### Group leader
+
+Hi! I am Scott. After completing my undergraduate studies in Theoretical Physics and Biology at the University of Adelaide and the University of Western Australia, I moved to the UK for my PhD at the [John Innes Centre](https://www.jic.ac.uk/). There, I worked with [Caroline Dean](https://www.jic.ac.uk/people/caroline-dean/) and [Martin Howard](https://www.jic.ac.uk/people/martin-howard/), combining theoretical and experimental biology approaches to understand mechanisms of epigenetic memory in *Arabidopsis thaliana*. I then moved to Switzerland as a [HFSP postodctoral fellow](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships), working with [Lucas Pelkmans](https://pelkmanslab.org/) at the University of Zurich. There, I shifted model systems from plants to mammalian cells, and became immersed in the wonderful world of modern single-cell biology -- focusing on understanding the mechanisms by which cells coordinate gene expression with cell size. From October 2021, I will be a group leader at [Single Molecule Science](https://sms.unsw.edu.au/) at the University of New South Wales.
 {{< endfigurefloat >}}
