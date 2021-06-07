@@ -16,7 +16,7 @@ title = "Berry Lab @ SMS"
     copyright = "© Scott Berry"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Quantitative regulation of gene expression in single cells"
+    description = "Biological research lab based at the University of New South Wales, Sydney, Australie"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
@@ -37,4 +37,4 @@ title = "Berry Lab @ SMS"
     hidedesignbyline = true
 
     [params.meta]
-        keywords = "transcription, berrygroup, berry lab, unsw, scaling, single molecule science"
+        keywords = "transcription, berrygroup, berry lab, unsw, scaling, single molecule science, single cell, sydney"
