@@ -21,7 +21,10 @@ Berry, S.^, Müller, M. and Pelkmans, L.^
 
 ###### High content genome-wide siRNA screen to investigate the coordination of cell size and RNA production
 Müller, M., Pelkmans, L., and Berry, S.  
-*Scientific Data* (in press)
+*Scientific Data*
+| [PDF](papers/mueller_et_al_sci_data_2021.pdf)
+| [Journal](http://dx.doi.org/10.1038/s41597-021-00944-5)
+| [Data](https://doi.org/10.17867/10000157)
 
 ---
 
