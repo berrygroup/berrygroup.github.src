@@ -17,7 +17,7 @@ header_menu: true
 ***Find us:***
 
 Single Molecule Science  
-Level 3, Lowy Cancer Research Centre  
+Room 311 (Level 3) Lowy Cancer Research Centre  
 Cnr Botany & High Sts, Building C25  
 UNSW Kensington Campus
 
