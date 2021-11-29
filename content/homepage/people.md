@@ -21,9 +21,7 @@ Hi! I am Scott. After completing my undergraduate studies in Theoretical Physics
 
 ###### Postdoc
 
-**We currently have an open postdoc position.**
-
-Please apply [here](https://external-careers.jobs.unsw.edu.au/cw/en/job/503399/postdoctoral-fellow-molecular-biology) before 28 Nov 2021.
+There are currently no advertised positions. Please [contact Scott](mailto:scott.berry@unsw.edu.au) if you are interested in applying. 
 
 ###### PhD / Honours
 
