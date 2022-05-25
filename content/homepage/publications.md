@@ -23,7 +23,7 @@ Spitzer, H.\*, Berry, S.\*, Donoghoe, M., Pelkmans, L.^ and Theis, F.^
 ###### Feedback from nuclear RNA on transcription promotes robust RNA concentration homeostasis in human cells
 Berry, S.^, Müller, M., Rai, A. and Pelkmans, L.^  
 *Cell Systems* 
-| *in press*
+| [Journal](https://doi.org/10.1016/j.cels.2022.04.005)
 | [bioRxiv](https://doi.org/10.1101/2021.05.17.444432)  
 ^ Corresponding authors
 
