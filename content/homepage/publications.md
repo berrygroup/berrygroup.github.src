@@ -9,12 +9,13 @@ header_menu: true
 ### Preprints
 
 ###### Learning consistent subcellular landmarks to quantify changes in multiplexed protein maps
-Spitzer, H.\*, Berry, S.\*, Donoghoe, M., Pelkmans, L.^ and Theis, F.^  
+Spitzer, H.\*, Berry, S.\*, Donoghoe, M., Pelkmans, L. and Theis, F.  
 *bioRxiv* 
 | [PDF](https://www.biorxiv.org/content/10.1101/2022.05.07.490900v1.full.pdf)
-| [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.07.490900)  
-\* Equal contribution  
-^ Corresponding authors
+| [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.07.490900)
+| [GitHub](https://github.com/theislab/campa)
+| [Read the Docs](https://campa.readthedocs.io/en/stable/)  
+\* Equal contribution
 
 ---
 

@@ -34,7 +34,7 @@ Mechanistic model of self-perpetuating active and repressed chromatin states.
 Mammalian cells coordinate RNA production rates with cell size to ensure RNA concentration homeostasis. We discovered that this process relies on adapting transcription rates according to nuclear mRNA concentration, so that overabundance of nuclear mRNA leads to transcriptional repression. This mechanism involves mRNA-based regulation of the activity of RNA Polymerase II, which in turn determines polymerase abundance. We are interested in further dissecting the interplay between the transcriptional machinery, nuclear RNA export and RNA degradation factors that act in concert to ensure robust mRNA concentration homeostasis.
 
 **Further reading:**  
-[Berry *et al.*, bioRxiv, 2021](https://doi.org/10.1101/2021.05.17.444432)  
+[Berry *et al.*, Cell Systems, 2022](https://doi.org/10.1016/j.cels.2022.04.005)  
 
 ![Feedback from RNA production](images/transcription_feedback.png)
 
@@ -43,12 +43,13 @@ Mammalian cells coordinate RNA production rates with cell size to ensure RNA con
 ![4i](images/4i.gif#floatrighthalf)
 In recent years, technological advances have made it possible to visualise tens to hundreds of proteins in single cells. This has brought with it the ability to accurately quantify the high-dimensional relationships between protein abundances and their modification states, as well as the cell-to-cell variability of their subcellular localisation and co-localisation.
 
-We use [Iterative Indirect Immunofluorescence Imaging](https://doi.org/10.1126/science.aar7042) (4i) throughout our research to comprehensively evaluate changes to cellular phenotypes in the context of cellular differentiation and upon perturbation of RNA metabolism. These datasets are extraordinarily rich in information, however much of this information is not easy to interpret using existing approaches. In collaboration with [Lucas Pelkmans'](https://www.pelkmanslab.org) and [Fabian Theis'](https://www.helmholtz-muenchen.de/icb/research/groups/theis-lab/overview/index.html) research groups, we are also currently developing new computational image analysis workflows to facilitate analysis of these data at the subcellular, cellular and population scales.
+We use [Iterative Indirect Immunofluorescence Imaging](https://doi.org/10.1126/science.aar7042) (4i) throughout our research to comprehensively evaluate changes to cellular phenotypes in the context of cellular differentiation and upon perturbation of RNA metabolism. These datasets are extraordinarily rich in information, however much of this information is not easy to interpret using existing approaches. In collaboration with [Lucas Pelkmans'](https://www.pelkmanslab.org) and [Fabian Theis'](https://www.helmholtz-muenchen.de/icb/research/groups/theis-lab/overview/index.html) research groups, we have developed a new computational image analysis workflow called CAMPA to facilitate analysis of these data across different perturbations, at the subcellular, cellular and population scales.
 
 **Further reading:**  
-[Gut *et al.*, Science, 2019](https://doi.org/10.1126/science.aar7042)  
+[Spitzer, Berry *et al.*, bioRxiv, 2022](https://www.biorxiv.org/content/10.1101/2022.05.07.490900)  
+[CAMPA on GitHub](https://github.com/theislab/campa)
 
-![Multiplexed Cell Units](images/MCU.001.jpg)
+![Consistent subcellular landmarks](images/CSL-01.jpg)
 
 {{< figurecaption >}}
 Applying pixel-clustering approaches to highly-multiplexed 4i image data identifies subcellular structures in an unbiased manner. In this case, we focused on the nucleus: revealing organelles such as nuclear speckles, Cajal bodies, PML bodies and the nucleolus.
