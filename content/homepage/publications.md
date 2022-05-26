@@ -17,6 +17,12 @@ Spitzer, H.\*, Berry, S.\*, Donoghoe, M., Pelkmans, L. and Theis, F.
 | [Read the Docs](https://campa.readthedocs.io/en/stable/)  
 \* Equal contribution
 
+###### Robust and Versatile Arrayed Libraries for Human Genome-Wide CRISPR Activation, Deletion and Silencing
+Yin, J.-A., Scheidmann, M. C., Frick, L., Trevisan, C., Dhingra, A., Spinelli, A., Wu, Y., Yao, L., Vena, D.L., De Cecco, E., Ging, K., Liu, T., Täger, J., Rodriguez, S., Guo, J., Berry, S., Losa, M., Hornemann, S., Kampmann, M., Pelkmans, L., Hoepfner, D., Heutink, P., and Aguzzi, A.  
+*bioRxiv* 
+| [PDF](https://www.biorxiv.org/content/10.1101/2022.05.25.493370v1.full.pdf)
+| [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.25.493370)
+
 ---
 
 ### 2022
