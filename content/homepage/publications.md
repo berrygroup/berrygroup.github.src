@@ -27,9 +27,14 @@ Yin, J.-A., Scheidmann, M. C., Frick, L., Trevisan, C., Dhingra, A., Spinelli, A
 
 ### 2022
 
+###### Mechanisms of cellular mRNA transcript homeostasis
+Berry, S., and Pelkmans, L.  
+*Trends in Cell Biology*
+| [Journal](https://doi.org/10.1016/j.tcb.2022.05.003)
+
 ###### Feedback from nuclear RNA on transcription promotes robust RNA concentration homeostasis in human cells
 Berry, S.^, Müller, M., Rai, A. and Pelkmans, L.^  
-*Cell Systems* 
+*Cell Systems*
 | [Journal](https://doi.org/10.1016/j.cels.2022.04.005)
 | [bioRxiv](https://doi.org/10.1101/2021.05.17.444432)  
 ^ Corresponding authors
@@ -39,7 +44,7 @@ Berry, S.^, Müller, M., Rai, A. and Pelkmans, L.^
 ### 2021
 
 ###### High content genome-wide siRNA screen to investigate the coordination of cell size and RNA production
-Müller, M., Avar, M., Heinzer, D., Emmenegger, M., Aguzzi, A., Pelkmans, L.^ ,and Berry, S.^  
+Müller, M., Avar, M., Heinzer, D., Emmenegger, M., Aguzzi, A., Pelkmans, L.^, and Berry, S.^  
 *Scientific Data*
 | [PDF](papers/mueller_et_al_sci_data_2021.pdf)
 | [Journal](http://dx.doi.org/10.1038/s41597-021-00944-5)
