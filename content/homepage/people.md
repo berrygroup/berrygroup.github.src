@@ -28,6 +28,16 @@ I completed my undergraduate degree with majors in neuroscience and pharmacology
 {{<icon class="fa fa-twitter">}}&nbsp;[@acftbl](http://twitter.com/acftbl)
 {{< endfigurefloat >}}
 
+
+#### Teddy Cheng Wei Kang
+![Teddy Cheng Wei Kang](images/Teddy_BW.jpg#floatright)
+###### PhD student
+
+Hello, I am Teddy. After completing my undergraduate in Resource Biotechnology at University of Malaysia, Sarawak, I continued my MSc in Molecular Medicine under Dr Oon Chern Ein at Universiti Sains Malaysia. This project involved collaborative work together with researchers at the Karolinska Institutet, aimed at determining if manic fringe protein expression can be utilized as a biomarker for therapeutics and prognosis in kidney cancer, as well as to determine its association with immune cell infiltration. Our research group also collaborated with the Weatherall Institute of Molecular Medicine to further elucidate the expression pattern of manic fringe in blood vessels of renal cancer and in tumor angiogenesis. I am currently a PhD student researching the global control of mRNA metabolism in human cells.
+
+{{<icon class="fa fa-envelope">}}&nbsp;[c.wei_kang[at]unsw.edu.au](c.wei_kang@unsw.edu.au)
+
+
 #### Open positions
 
 ###### Postdoc / PhD / Honours
