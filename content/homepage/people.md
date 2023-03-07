@@ -38,6 +38,17 @@ Hello, I am Teddy. After completing my undergraduate in Resource Biotechnology a
 {{<icon class="fa fa-envelope">}}&nbsp;[c.wei_kang[at]unsw.edu.au](c.wei_kang@unsw.edu.au)
 
 
+#### Bailey Hiles-Murison
+![Bailey Hiles-Murison](images/Bailey_BW.jpg#floatright)
+###### PhD student
+
+Hi! My name is Bailey. I completed my undergraduate degree in Molecular Genetics and Biotechnology at Curtin University in 2021, studying honours under Ryu Takechi at Curtin’s Health Innovation and Research Institute. For my honours project I investigated the effects of Probucol on attenuating neurodegenerative changes associated with APOE4 genotype, using both in-vivo and ex-vivo analyses of transgenic mice expressing human APOE isoforms. I also worked on a murine model of traumatic brain injury where we established early neuropathological developments in the context of repetitive sub-concussion. Since beginning my studies I’ve always held a keen interest in cell biology, and I joined Scott’s group in 2023 as a PhD candidate, focusing on visualisation of transcription and mRNA processing in living cells.
+
+{{<icon class="fa fa-envelope">}}&nbsp;[b.hilesmurison[at]unsw.edu.au](b.hilesmurison@unsw.edu.au)
+
+{{<icon class="fa fa-twitter">}}&nbsp;[@blymrsn](http://twitter.com/blymrsn)
+{{< endfigurefloat >}}
+
 #### Open positions
 
 ###### Postdoc / PhD / Honours
