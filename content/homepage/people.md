@@ -38,6 +38,13 @@ Hello, I am Teddy. After completing my undergraduate in Resource Biotechnology a
 {{<icon class="fa fa-envelope">}}&nbsp;[c.wei_kang[at]unsw.edu.au](c.wei_kang@unsw.edu.au)
 
 
+#### Hongpei Li
+![Hongpei Li](images/Hongpei_BW.jpg#floatright)
+###### PhD student
+
+Hello, my name is Hongpei. I completed my undergraduate study in Biological Sciences at Jinan University in China, where I developed a strong interest in synthetic biology. I continued to pursue an MSc in synthetic biology and biotechnology at the University of Edinburgh, where I investigated the sugar consumption strategy in budding yeast using quantitative methods under the supervision of Professor Peter Swain. After completing my MSc, I worked as an R&D trainee at Ailurus Biotechnology, developing a bio-computing platform based on understanding artificial biological processes in E.coli using massively parallel reporter assays. I joined Scott's group in 2023 as a PhD student and my current research focuses on understanding quantitative epigenetic memory in human cells using synthetic biology tools.
+
+
 #### Bailey Hiles-Murison
 ![Bailey Hiles-Murison](images/Bailey_BW.jpg#floatright)
 ###### PhD student
