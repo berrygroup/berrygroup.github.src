@@ -46,7 +46,7 @@ In recent years, technological advances have made it possible to visualise tens 
 We use [Iterative Indirect Immunofluorescence Imaging](https://doi.org/10.1126/science.aar7042) (4i) throughout our research to comprehensively evaluate changes to cellular phenotypes in the context of cellular differentiation and upon perturbation of RNA metabolism. These datasets are extraordinarily rich in information, however much of this information is not easy to interpret using existing approaches. In collaboration with [Lucas Pelkmans'](https://www.pelkmanslab.org) and [Fabian Theis'](https://www.helmholtz-muenchen.de/icb/research/groups/theis-lab/overview/index.html) research groups, we have developed a new computational image analysis workflow called CAMPA to facilitate analysis of these data across different perturbations, at the subcellular, cellular and population scales.
 
 **Further reading:**  
-[Spitzer, Berry *et al.*, bioRxiv, 2022](https://www.biorxiv.org/content/10.1101/2022.05.07.490900)  
+[Spitzer, Berry *et al.*, Nat Methods, 2023](https://doi.org/10.1038/s41592-023-01894-z)  
 [CAMPA on GitHub](https://github.com/theislab/campa)
 
 ![Consistent subcellular landmarks](images/CSL-01.jpg)

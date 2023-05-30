@@ -8,20 +8,25 @@ header_menu: true
 
 ### Preprints
 
-###### Learning consistent subcellular landmarks to quantify changes in multiplexed protein maps
-Spitzer, H.\*, Berry, S.\*, Donoghoe, M., Pelkmans, L. and Theis, F.  
-*bioRxiv* 
-| [PDF](https://www.biorxiv.org/content/10.1101/2022.05.07.490900v1.full.pdf)
-| [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.07.490900)
-| [GitHub](https://github.com/theislab/campa)
-| [Read the Docs](https://campa.readthedocs.io/en/stable/)  
-\* Equal contribution
-
 ###### Robust and Versatile Arrayed Libraries for Human Genome-Wide CRISPR Activation, Deletion and Silencing
 Yin, J.-A., Scheidmann, M. C., Frick, L., Trevisan, C., Dhingra, A., Spinelli, A., Wu, Y., Yao, L., Vena, D.L., De Cecco, E., Ging, K., Liu, T., Täger, J., Rodriguez, S., Guo, J., Berry, S., Losa, M., Hornemann, S., Kampmann, M., Pelkmans, L., Hoepfner, D., Heutink, P., and Aguzzi, A.  
 *bioRxiv* 
 | [PDF](https://www.biorxiv.org/content/10.1101/2022.05.25.493370v1.full.pdf)
 | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.25.493370)
+
+---
+
+### 2023
+
+###### Learning consistent subcellular landmarks to quantify changes in multiplexed protein maps
+Spitzer, H.\*, Berry, S.\*, Donoghoe, M., Pelkmans, L. and Theis, F.  
+*Nature Methods* 
+| [Journal](https://doi.org/10.1038/s41592-023-01894-z)
+| [Research Briefing](https://doi.org/10.1038/s41592-023-01895-y)
+| [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.07.490900)
+| [GitHub](https://github.com/theislab/campa)
+| [Read the Docs](https://campa.readthedocs.io/en/stable/)  
+\* Equal contribution
 
 ---
 
