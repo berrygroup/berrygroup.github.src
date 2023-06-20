@@ -23,7 +23,7 @@ Hi! I am Scott. After completing my undergraduate studies in Theoretical Physics
 
 I completed my undergraduate degree with majors in neuroscience and pharmacology. My PhD was undertaken at University of Sydney, working with Prof Macdonald Christie, during which I studied the pharmacology of opioid analgesics across in vitro assays and rodent behavioural studies. In the course of that work, I became interested in mathematical modelling of biological systems as a tool to unpick signalling mechanisms. As part of my PhD, I completed a research period at University of Nottingham, working with Prof Meritxell Canals. There, we sought to examine the kinetics of opioid receptor signalling on a population & single molecule level. As a result of this approach to receptor signalling systems, I have become increasingly interested in using similar techniques to systematically deconstruct other biological pathways.
 
-{{<icon class="fa fa-envelope">}}&nbsp;[a.gillis[at]unsw.edu.au](a.gillis@unsw.edu.au)
+{{<icon class="fa fa-envelope">}}&nbsp;[a.gillis[at]unsw.edu.au](mailto:a.gillis@unsw.edu.au)
 
 {{<icon class="fa fa-twitter">}}&nbsp;[@acftbl](http://twitter.com/acftbl)
 {{< endfigurefloat >}}
@@ -35,7 +35,7 @@ I completed my undergraduate degree with majors in neuroscience and pharmacology
 
 Hello, I am Teddy. After completing my undergraduate in Resource Biotechnology at University of Malaysia, Sarawak, I continued my MSc in Molecular Medicine under Dr Oon Chern Ein at Universiti Sains Malaysia. This project involved collaborative work together with researchers at the Karolinska Institutet, aimed at determining if manic fringe protein expression can be utilized as a biomarker for therapeutics and prognosis in kidney cancer, as well as to determine its association with immune cell infiltration. Our research group also collaborated with the Weatherall Institute of Molecular Medicine to further elucidate the expression pattern of manic fringe in blood vessels of renal cancer and in tumor angiogenesis. I am currently a PhD student researching the global control of mRNA metabolism in human cells.
 
-{{<icon class="fa fa-envelope">}}&nbsp;[c.wei_kang[at]unsw.edu.au](c.wei_kang@unsw.edu.au)
+{{<icon class="fa fa-envelope">}}&nbsp;[c.wei_kang[at]unsw.edu.au](mailto:c.wei_kang@unsw.edu.au)
 
 
 #### Hongpei Li
@@ -44,6 +44,7 @@ Hello, I am Teddy. After completing my undergraduate in Resource Biotechnology a
 
 Hello, my name is Hongpei. I completed my undergraduate study in Biological Sciences at Jinan University in China, where I developed a strong interest in synthetic biology. I continued to pursue an MSc in synthetic biology and biotechnology at the University of Edinburgh, where I investigated the sugar consumption strategy in budding yeast using quantitative methods under the supervision of Professor Peter Swain. After completing my MSc, I worked as an R&D trainee at Ailurus Biotechnology, developing a bio-computing platform based on understanding artificial biological processes in E.coli using massively parallel reporter assays. I joined Scott's group in 2023 as a PhD student and my current research focuses on understanding quantitative epigenetic memory in human cells using synthetic biology tools.
 
+{{<icon class="fa fa-envelope">}}&nbsp;[hongpei.li[at]unsw.edu.au](mailto:hongpei.li@unsw.edu.au)
 
 #### Bailey Hiles-Murison
 ![Bailey Hiles-Murison](images/Bailey_BW.jpg#floatright)
@@ -51,7 +52,7 @@ Hello, my name is Hongpei. I completed my undergraduate study in Biological Scie
 
 Hi! My name is Bailey. I completed my undergraduate degree in Molecular Genetics and Biotechnology at Curtin University in 2021, studying honours under Ryu Takechi at Curtin’s Health Innovation and Research Institute. For my honours project I investigated the effects of Probucol on attenuating neurodegenerative changes associated with APOE4 genotype, using both in-vivo and ex-vivo analyses of transgenic mice expressing human APOE isoforms. I also worked on a murine model of traumatic brain injury where we established early neuropathological developments in the context of repetitive sub-concussion. Since beginning my studies I’ve always held a keen interest in cell biology, and I joined Scott’s group in 2023 as a PhD candidate, focusing on visualisation of transcription and mRNA processing in living cells.
 
-{{<icon class="fa fa-envelope">}}&nbsp;[b.hilesmurison[at]unsw.edu.au](b.hilesmurison@unsw.edu.au)
+{{<icon class="fa fa-envelope">}}&nbsp;[b.hilesmurison[at]unsw.edu.au](mailto:b.hilesmurison@unsw.edu.au)
 
 {{<icon class="fa fa-twitter">}}&nbsp;[@blymrsn](http://twitter.com/blymrsn)
 {{< endfigurefloat >}}
