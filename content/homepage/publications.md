@@ -18,9 +18,19 @@ Yin, J.-A., Scheidmann, M. C., Frick, L., Trevisan, C., Dhingra, A., Spinelli, A
 
 ### 2023
 
+###### Integrating analog and digital modes of gene expression at Arabidopsis *FLC*
+Antoniou-Kourounioti, R.L.\*, Meschichi, A.\*, Reeck, S.\*, Berry, S., Menon, G., Zhao, Y., Fozard, J., Holmes, T., Zhao, L., Wang, H., Hartley, M., Dean, C., Rosa, S., Howard, M.
+*eLife*
+| [PDF](papers/antoniou-kourounioti_et_al_elife_2023.pdf)
+| [Journal](https://doi.org/10.7554/eLife.79743)
+| [bioRxiv](https://doi.org/10.1101/2022.07.04.498694)  
+\* Equal contribution
+
+
 ###### Learning consistent subcellular landmarks to quantify changes in multiplexed protein maps
 Spitzer, H.\*, Berry, S.\*, Donoghoe, M., Pelkmans, L. and Theis, F.  
 *Nature Methods* 
+| [PDF](papers/spitzer_et_al_nat_methods_2023.pdf)
 | [Journal](https://doi.org/10.1038/s41592-023-01894-z)
 | [Research Briefing](https://doi.org/10.1038/s41592-023-01895-y)
 | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.07.490900)
@@ -40,6 +50,7 @@ Berry, S., and Pelkmans, L.
 ###### Feedback from nuclear RNA on transcription promotes robust RNA concentration homeostasis in human cells
 Berry, S.^, Müller, M., Rai, A. and Pelkmans, L.^  
 *Cell Systems*
+| [PDF](papers/berry_et_al_cell_systems_2022.pdf)
 | [Journal](https://doi.org/10.1016/j.cels.2022.04.005)
 | [bioRxiv](https://doi.org/10.1101/2021.05.17.444432)  
 ^ Corresponding authors

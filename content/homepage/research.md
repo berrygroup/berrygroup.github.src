@@ -22,7 +22,8 @@ We are interested in the interplay between gene-specific diffusible regulatory f
 
 **Further reading:**  
 [Yang, Berry *et al.*, Science, 2017](http://dx.doi.org/10.1126/science.aan1121)  
-[Berry *et al.*, Cell Systems, 2017](http://dx.doi.org/10.1016/j.cels.2017.02.013)
+[Berry *et al.*, Cell Systems, 2017](http://dx.doi.org/10.1016/j.cels.2017.02.013)  
+[Antoniou-Kourounioti *et al.*, eLife, 2023](http://dx.doi.org/10.7554/eLife.79743)
 
 ![Integrating local and diffusible signals at chromatin](images/Modelling-01.png)
 {{< figurecaption >}}
@@ -35,6 +36,7 @@ Mammalian cells coordinate RNA production rates with cell size to ensure RNA con
 
 **Further reading:**  
 [Berry *et al.*, Cell Systems, 2022](https://doi.org/10.1016/j.cels.2022.04.005)  
+[Berry *et al.*, Trends in Cell Biology, 2022](https://doi.org/10.1016/j.tcb.2022.05.003)  
 
 ![Feedback from RNA production](images/transcription_feedback.png)
 
