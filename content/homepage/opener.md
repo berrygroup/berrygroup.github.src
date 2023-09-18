@@ -8,6 +8,6 @@ We are a research group at the [RNA Institute](https://www.rna.unsw.edu.au/) and
 
 ![UNSW](images/UNSW_EMBL_RNA.png)
 
-## Position available
+## Positions available
 
-We are currently looking for a postdoc to join our team. The position will be initially for two years, with starting date between October 2023 and January 2024. Please [email](mailto:scott.berry@unsw.edu.au) to find out more.
+Please [email](mailto:scott.berry@unsw.edu.au) if you are interested in a PhD or postdoc position in the lab.
