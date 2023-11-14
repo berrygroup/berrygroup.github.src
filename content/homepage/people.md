@@ -28,6 +28,16 @@ I completed my undergraduate degree with majors in neuroscience and pharmacology
 {{<icon class="fa fa-twitter">}}&nbsp;[@acftbl](http://twitter.com/acftbl)
 {{< endfigurefloat >}}
 
+#### Angela Arabiotorre
+![Angela Arabiotorre](images/Angela_BW.jpg#floatright)
+###### Postdoc
+
+Howdy! I obtained my bachelor’s degree in Bioanalysis at Central University of Venezuela and was awarded the Outstanding Undergraduate Project certificate for studying molecular diagnostic techniques of Trypanosoma cruzi. I obtained my master’s degree in Molecular Biology and Biomedicine at University of the Basque Country (UPV/EHU) in Spain. At a research placement at Prof Banafshé Larijani’s laboratory in the Biophysics Institute (UPV/EHU), we analysed the phosphoinositide and protein physical proximity through the implementation of FRET microscopy to study the biogenesis of nuclear envelope assembly. I completed my Ph.D. candidacy under the guidance of Prof Vytas Bankaitis and Dr. Aby Grabon at Texas A&M University (USA). There, I described the regulatory role of Phosphatidylinositol-4-phosphate in the dense granule biogenesis and exocytosis in Toxoplasma gondii. I am interested in studying the physiology and biochemistry of eukaryotic cells, including gene expression and inheritance, and how these were shaped through evolution.
+
+{{<icon class="fa fa-envelope">}}&nbsp;[a.arabiotorre[at]unsw.edu.au](mailto:a.arabiotorre@unsw.edu.au)
+
+{{<icon class="fa fa-twitter">}}&nbsp;[@acftbl](http://twitter.com/acftbl)
+{{< endfigurefloat >}}
 
 #### Teddy Cheng Wei Kang
 ![Teddy Cheng Wei Kang](images/Teddy_BW.jpg#floatright)
