@@ -16,6 +16,16 @@ Yin, J.-A., Scheidmann, M. C., Frick, L., Trevisan, C., Dhingra, A., Spinelli, A
 
 ---
 
+### 2024
+
+###### Global control of RNA polymerase II
+Gillis, A., and Berry, S.  
+*BBA Gene Regulatory Mechanisms* 
+| [PDF](papers/gillis_bba_2024.pdf)
+| [Journal](https://doi.org/10.1016/j.bbagrm.2024.195024)
+
+---
+
 ### 2023
 
 ###### Integrating analog and digital modes of gene expression at Arabidopsis *FLC*
