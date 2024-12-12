@@ -18,6 +18,14 @@ Yin, J.-A., Scheidmann, M. C., Frick, L., Trevisan, C., Dhingra, A., Spinelli, A
 
 ### 2024
 
+###### CRL3-ARMC5 ubiquitin ligase and Integrator phosphatase form parallel mechanisms to control early stages of RNA Pol II transcription
+Cacioppo, R.\*, Gillis, A.\*, Shlamovitz, I.\*, Zeller, A.\*, Castiblanco, D., Crisp, A., Haworth, B., Arabiotorre, A., Abyaneh, P., Bao, Y., Sale, J.E., Berry, S.^, Tufegdžić Vidaković, A.^  
+*Molecular Cell* 
+| [PDF](papers/cacioppo_et_al_2024.pdf)
+| [Journal](https://doi.org/10.1016/j.molcel.2024.11.024)
+^ Corresponding authors
+
+
 ###### Global control of RNA polymerase II
 Gillis, A., and Berry, S.  
 *BBA Gene Regulatory Mechanisms* 
